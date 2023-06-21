@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 550px;
+  }
+  
+  .contain {
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  
+  .contains {
+    text-size-adjust: 10;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: tan;
+  }
+  
+  .heading {
+    font-family: 'Gill Sans';
+    align-self: center;
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+  
+  .day {
+    flex: 1;
+    border: 1px solid white;
+    padding: 10px;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-image: url('images.jpeg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .logo {
+    width: 100px;
+    margin-left: 10px;
+  }
+  .abc{
+    background-image: url('images.jpeg');
+    opacity: 0.82;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    justify-items: center;
+    align-items: center;
+    padding: 10px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .buttons {
+    margin-top: 15px ;
+  }
+  .button1{
+    background-color: gray;
+    margin-left: 60px;
+  }
+  .button2{
+    background-color: gray;
+    margin-left: 60px;
+  }
+  
