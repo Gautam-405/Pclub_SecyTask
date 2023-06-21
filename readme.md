@@ -20,5 +20,5 @@ This is the Cascading Style Sheets (CSS) file for the popup. It handles all the 
 <p>Day 1: Understanding and Requirements Gathering  - Before starting the project i did not have any prior knowlegde about html,js,or css  so i collected the resources of html js and css and some webscrapping throught extension part too and started learning and implementing that simultaneouslsy</p>
 <p>Day 2: Designing Baic Strucuture & Find path to time table - on day 2 I started working on manifest.json and popup.html and html.css and i found logic to access time table data </p>
 <p>Day 3: Wrote popup.js and content.js - I started giving functionality to buttons I used and started scrapping content from pingala</p>
-<p>Day 4:Final Day Designing and Giving Storage Permission- On Final Day I worked on Design and learnt how to use storage api of chrome to store retrieved data but I was not able to compklete and test <b>notification part</b>.</p>
+<p>Day 4:Final Day Designing and Giving Storage Permission- On Final Day I worked on Design and learnt how to use storage api of chrome to store retrieved data but I was not able to complete and test <b>notification part</b>.</p>
 I've Attached all files & images used in this repo.
